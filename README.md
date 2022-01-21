@@ -1,2 +1,2 @@
 # DevProject
-Simple Implementations
+Consists of simple implementations for checking
