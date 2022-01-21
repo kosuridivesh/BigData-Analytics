@@ -1,2 +1,2 @@
-# BiData-Works
+# BigData-Works
 Cheers to the course!
