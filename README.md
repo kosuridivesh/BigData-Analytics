@@ -1,2 +1,2 @@
-# DevProject
-Consists of simple implementations
+# BiData-Works
+Cheers to the course!
