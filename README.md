@@ -1,2 +1,2 @@
 # DevProject
-Consists of simple implementations for checking
+Consists of simple implementations
